@@ -95,3 +95,4 @@
 **End of Index**  
 > Repository ini dirancang sebagai basis rujukan digital untuk kajian Al-Qur’an, Hadith, Fiqh, dan Sirah Nabawiyah.  
 > Semua sumber diverifikasi terbaca dan dapat diakses langsung untuk keperluan studi ilmiah dan pengajaran.
+
