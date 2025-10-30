@@ -1,0 +1,97 @@
+# 📚 Knowledge Base Index – Islamic Studies Reference
+
+**Purpose:** Digital repository of classical and contemporary Islamic texts for study and contextual reference.  
+**Access:** All files hosted on Catbox (public, permanent, and direct-access).  
+
+---
+
+
+## 📖 1.a. Website quran.com/id untuk teks Al-Qur'an
+
+## 📖 1.b. Tafsir by Ibnu Kathir
+
+### Tafsir al-Qur’an al-‘Azim (10 Volumes)
+- **Author:** Ismail bin Umar Ibn Kathir ad-Dimashqi  
+- **Category:** Tafsir (Qur’anic Exegesis)  
+- **Language:** Arabic & Indonesian Translation  
+- **File Type:** PDF  
+- **Direct Download:**  
+  https://files.catbox.moe/4g9rpa.pdf  
+- **Notes:**  
+  Materi Tafsir Al-Qur'an klasik berbasis hadith dengan pendekatan salaf. Digunakan luas dalam studi tafsir lintas madzhab dan universitas Islam di dunia.
+
+---
+
+## 📖 2.a. Website sunnah.com untuk referensi sunnah
+
+## 📖 2.b. Riyadhus-Shalihin by Imam Nawawi
+
+### Riyadhus-Shalihin (Part 1 v.2)
+- **Author:** Imam Yahya bin Syaraf An-Nawawi  
+- **Category:** Hadith & Ethics (Akhlaq, Targhib wa Tarhib)  
+- **Language:** Arabic & Indonesian Translation  
+- **File Type:** PDF  
+- **Direct Download:**  
+  https://files.catbox.moe/2hus3b.pdf  
+- **Notes:**  
+  Materi penguat dari sunnah.com Membahas niat, taubat, kesabaran, keimanan, dan akhlak personal. Disertai penjelasan hadith dan konteks sosial spiritualnya.
+
+### Riyadhus-Shalihin (Part 2 v.2)
+- **Author:** Imam Yahya bin Syaraf An-Nawawi  
+- **Category:** Hadith & Ethics (Continuation)  
+- **Language:** Arabic & Indonesian Translation  
+- **File Type:** PDF  
+- **Direct Download:**  
+  https://files.catbox.moe/s5ubp9.pdf  
+- **Notes:**  
+  Melanjutkan pembahasan akhlak sosial, keadilan, pemerintahan, dan etika pergaulan. Referensi penting untuk pendidikan karakter Islam.
+
+---
+
+## ⚖️ 3. Fiqih Islam Imam Syafi'i by DR. Mustapha Diib Al-Bughā
+
+### Fiqih Islam Madzhab Syafi’i
+- **Author:** DR. Mustafa Dīb Al-Bughā  
+- **Category:** Fiqh (Madzhab Syafi‘i)  
+- **Language:** Arabic & Indonesian Translation  
+- **File Type:** PDF  
+- **Direct Download:**  
+  https://files.catbox.moe/yp4rh5.pdf  
+- **Notes:**  
+  Kompendium hukum Islam madzhab Syafi‘i dengan penjelasan sistematis, mencakup ibadah, mu‘amalat, munakahat, dan jinayat.
+
+---
+
+## 🕌 4. Sirah Nabawiyah by Ibnu Hisyam
+
+### Sirah Nabawiyah
+- **Author:** Ibnu Hisyam (Abu Muhammad Abdul Malik bin Hisyam al-Ma‘āfiri)  
+- **Category:** Sirah (Prophetic Biography)  
+- **Language:** Arabic & Indonesian Translation  
+- **File Type:** ODT  
+- **Direct Download:**  
+  https://files.catbox.moe/pyq3ra.odt  
+- **Notes:**  
+  Sumber utama sejarah kehidupan Nabi Muhammad ﷺ. Penyuntingan dari karya asli Ibnu Ishaq, mencakup nasab, dakwah, hijrah, peperangan, dan wafat beliau.
+
+---
+
+## 🧭 5. Metadata Summary
+
+| Category | Primary Text | Format | Access | Status |
+|-----------|---------------|---------|---------|---------|
+| Tafsir | Ibn Kathir (10 vols) | PDF | Public (Catbox) | ✅ Verified |
+| Hadith & Ethics | Riyadhus-Shalihin (1–2) | PDF | Public (Catbox) | ✅ Verified |
+| Fiqh | Fiqih Islam Madzhab Syafi’i | PDF | Public (Catbox) | ✅ Verified |
+| Sirah | Ibnu Hisyam | ODT | Public (Catbox) | ✅ Verified |
+
+---
+
+## 💡 Notes on Usage
+- Semua file bersifat **public-access** dan dapat dibaca langsung oleh sistem AI tanpa login.  
+
+---
+
+**End of Index**  
+> Repository ini dirancang sebagai basis rujukan digital untuk kajian Al-Qur’an, Hadith, Fiqh, dan Sirah Nabawiyah.  
+> Semua sumber diverifikasi terbaca dan dapat diakses langsung untuk keperluan studi ilmiah dan pengajaran.
